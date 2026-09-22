@@ -1,0 +1,10 @@
+pandas>=3.0
+numpy>=2.5
+scikit-learn>=1.9
+zenml[server]>=0.96
+mlflow>=3.16
+pydantic<2.12
+pymysql>=1.1
+sqlmodel<0.0.25
+passlib>=1.7
+sqlalchemy-utils>=0.41
