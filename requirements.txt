@@ -1,6 +1,7 @@
 pandas>=3.0
 numpy>=2.5
 scikit-learn>=1.9
+xgboost>=3.1
 zenml[server]>=0.96
 mlflow>=3.16
 pydantic<2.12
